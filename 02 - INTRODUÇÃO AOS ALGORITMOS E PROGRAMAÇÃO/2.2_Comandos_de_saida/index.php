@@ -5,8 +5,12 @@ PHPClassName('Aula 02 - Comandos de Saída');
 PHPClassSession('echo', __LINE__);
 
 echo "<p>Olá mundo</p>";
+echo "<p>Olá mundo</p>";
+echo "<p>Olá mundo</p>";
 echo 23 . PHP_EOL;
 
+echo "<p>Olá mundo</p>";
+echo "<p>Olá mundo</p>";
 $hello = "Olá mundo";
 
 echo $hello;
