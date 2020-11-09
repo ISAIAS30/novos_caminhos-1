@@ -1,0 +1,16 @@
+[05-Nov-2020 17:08:11 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:09 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:10 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:13 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:16 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:17 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:20 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:20 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:32 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:35 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:38 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:41 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:45 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:47 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 12
+[05-Nov-2020 17:09:50 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 11
+[05-Nov-2020 17:09:54 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/2.2_Comandos_de_saida/index.php on line 11
